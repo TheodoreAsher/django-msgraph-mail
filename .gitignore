@@ -1,0 +1,5 @@
+dist
+django_msgraph_mail.egg-info
+__pycache__
+tests
+venv

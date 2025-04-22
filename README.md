@@ -104,10 +104,10 @@ send_mail(
 - **Debugging**: Set `fail_silently=False` to raise exceptions and check Django logs for detailed error messages.
 
 ## Contributing
-Contributions are welcome! Please submit issues or pull requests to the [GitHub repository](https://github.com/yourusername/django-msgraph-mail).
+Contributions are welcome! Please submit issues or pull requests to the [GitHub repository](https://github.com/TheodoreAsher/django-msgraph-mail).
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Support
-For questions or support, open an issue on the [GitHub repository](https://github.com/yourusername/django-msgraph-mail) or contact [your contact info].
+For questions or support, open an issue on the [GitHub repository](https://github.com/TheodoreAsher/django-msgraph-mail) or contact [django.infusion@gmail.com].
